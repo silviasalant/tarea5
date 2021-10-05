@@ -1,0 +1,16 @@
+body{
+    background-color:#ccffff ;
+    text-align: center;
+}
+h1{
+    font-family:Verdana; 
+    color : #0000cc;
+    margin-bottom: 60px;
+}
+h3{
+    font-family: verdana;
+    padding: 20px;
+}
+footer{
+    margin-top: 60px;
+}
